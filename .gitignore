@@ -39,3 +39,14 @@ x64
 /out
 /CMakeUserPresets.json
 /build/vcpkg_installed
+/Shaders/compiled/*.inc
+/Shaders/compiled/*.pdb
+/CMakeFiles/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.cmake
+*.txt
+*.tcl
+*.pc
+
